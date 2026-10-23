@@ -1,4 +1,4 @@
-print("Hello Git!")
+print("Hello from main branch")
 print("im learning version control")
 print("git easy as *u**")
 print("I am practicing Git.")
